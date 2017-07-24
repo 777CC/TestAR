@@ -4,7 +4,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>
-    <string>HMTAR</string>
+    <string>Test64bit</string>
     <key>CFBundleExecutable</key>
     <string>${EXECUTABLE_NAME}</string>
     <key>CFBundleIconFiles</key>
@@ -18,7 +18,7 @@
       <string>AppIcon76x76~ipad.png</string>
     </array>
     <key>CFBundleIdentifier</key>
-    <string>com.HMT.${PRODUCT_NAME}</string>
+    <string>com.Company.${PRODUCT_NAME}</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
@@ -26,7 +26,7 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.1</string>
+    <string>1.0</string>
     <key>CFBundleVersion</key>
     <string>0</string>
     <key>LSRequiresIPhoneOS</key>
@@ -61,11 +61,14 @@
     <key>UISupportedInterfaceOrientations</key>
     <array>
       <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
     </array>
     <key>Unity_LoadingActivityIndicatorStyle</key>
     <integer>-1</integer>
     <key>UnityCloudProjectID</key>
-    <string>ec238ecb-b0f6-44cc-bb57-2d79759a4e93</string>
+    <string></string>
     <key>UnityCrashSubmissionURL</key>
     <string>https://a:b@perf-events.cloud.unity3d.com/symbolicate</string>
   </dict>
